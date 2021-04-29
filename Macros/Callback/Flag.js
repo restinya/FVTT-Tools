@@ -1,5 +1,5 @@
 //usage
-//let ActorFlag = game.macros.getName("ActorFlag");
+//let ActorFlag = game.macros.getName("Flag");
 //ActorFlag.execute("add | get | remove", target.id, scope, key, value);
 
 (async()=>{
